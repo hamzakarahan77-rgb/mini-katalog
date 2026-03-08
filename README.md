@@ -78,3 +78,13 @@ Bu uygulama [Fake Store API](https://fakestoreapi.com/) kullanmaktadır:
 - JSON veri modelleme (fromJson/toJson)
 - ChangeNotifier ile state yönetimi
 - http paketi ile REST API kullanımı
+
+## 📸 Ekran Görüntüleri
+
+| Ana Sayfa | Elektronik | Ürün Detay |
+|-----------|------------|------------|
+| ![Ana Sayfa](screenshots/1_ana_sayfa.png) | ![Elektronik](screenshots/2_elektronik.png) | ![Ürün Detay](screenshots/3_urun_detay.png) |
+
+| Sepete Ekle | Sepet | Sipariş |
+|-------------|-------|---------|
+| ![Sepete Ekle](screenshots/4_sepete_ekle.png) | ![Sepet](screenshots/5_sepet.png) | ![Sipariş](screenshots/6_siparis.png) |
